@@ -8,13 +8,13 @@
 
 ## Структура проекта
 Lab05_Conditions/
-|-- GuessNumber/
-| |-- GuessNumber.csproj
-| |-- Program.cs
-|-- img/
-|-- .editorconfig
-|-- .gitignore
-|-- README.md
+├── GuessNumber/
+│   ├── GuessNumber.csproj
+│   └── Program.cs
+├── img/
+├── .editorconfig
+├── .gitignore
+└── README.md
 
 ## Блок кода
 ```csharp
